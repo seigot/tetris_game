@@ -1,0 +1,10 @@
+default:
+  up: 'W'
+  down: 'S'
+  left: 'A'
+  right: 'D'
+  action1: 'J'
+  action2: 'K'
+controller:
+  up: 'UP'
+  down: 'DOWN'

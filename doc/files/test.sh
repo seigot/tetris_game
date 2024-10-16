@@ -1,3 +1,6 @@
+ added line 1
+ added line 2
+ added line 3
 #!/bin/bash
 
 bash start.sh -l 1 -f test_l1_random.log

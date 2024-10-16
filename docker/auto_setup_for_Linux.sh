@@ -1,3 +1,6 @@
+ added line 1
+ added line 2
+ added line 3
 #!/bin/bash -x
 
 # cuda10.1, cudnn7のdocker環境でshが通ることを確認

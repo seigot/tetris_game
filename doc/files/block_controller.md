@@ -1,3 +1,6 @@
+ added line 1
+ added line 2
+ added line 3
 >本ページでは、[ブロック操作用プログラム](https://github.com/seigot/tetris_game/blob/master/block_controller.py)について説明を追記頂ける方を募集しています。<br>
 >説明の追記方法は、[`Pull Requestを送る`](https://github.com/seigot/tetris_game#pull-requestを送るoptional)を参照下さい。<br>
 

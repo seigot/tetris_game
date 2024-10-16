@@ -1,3 +1,6 @@
+ added line 1
+ added line 2
+ added line 3
 ## `GameStatus`データ構造
 
 [`block_controller.py`](https://github.com/seigot/tetris_game/blob/master/block_controller.py)内の`def GetNextMove(self, nextMove, GameStatus)`で扱う`GameStatus`は辞書型データです。<br>

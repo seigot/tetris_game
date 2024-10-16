@@ -1,3 +1,6 @@
+ added line 1
+ added line 2
+ added line 3
 # 実行環境(Ubuntu/JetsonNanoの場合)
 
 Need python3, PyQt5 and NumPy to be installed.
